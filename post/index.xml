@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Go for Mind</title>
-    <link>http://example.org/post/</link>
+    <link>https://hersheyxu.github.io/post/</link>
     <description>Recent content in Posts on Go for Mind</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Apr 2020 01:26:51 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hersheyxu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>大学与你为何</title>
-      <link>http://example.org/post/diary2/</link>
+      <link>https://hersheyxu.github.io/post/diary2/</link>
       <pubDate>Thu, 23 Apr 2020 01:26:51 +0800</pubDate>
       
-      <guid>http://example.org/post/diary2/</guid>
+      <guid>https://hersheyxu.github.io/post/diary2/</guid>
       <description>2018年4月6日
 人生中阶段太多了。从经历了人生中各个阶段的老年人来看，似乎每个阶段都有一些认知升华的任务，每经历一个阶段，都会不断积累经验与观念，最终达到生命的饱和，然后坦然面对死亡——这似乎是天经地义的事情。换句话说，人生随着年龄的增加，似乎总要天经地义的达到完满的境界，然后受人尊敬。 但是这是天经地义吗？ 人生的阶段来了，经验与观念就会真的来吗？ 获得的经验与观念，真的会把人生往更好的方向引领吗？
  这些问题的思考，在我初入大学的时候，本是没有的。但毫无疑问的是，大学是人生中一个相当重要的阶段，这是最后一个容我们去思考“生存还是死亡”的阶段，也是最终决定我们选择“生存还是死亡”的阶段。 但讲到从“入学以来”我的“成长感悟”，我觉得我经历了一个思考焦点不断改变和增进的过程。刚入学的时候，我想的是，怎么形成自己有规律的作息习惯、饮食方式，怎么和周围人结识，怎么在课堂上专心听课，我究竟喜欢什么专业……这些思考太过具体太过琐碎，它们有时并不构成思考本身，但是不去思考、不去建构又是完全不可以的。打个比方，当时由于对自己的专业方向不明确，选课的时候都是随波逐流的，盲目地听从室友的建议，然后选择了让自己有些退路的一些课，一学期下来，既没有感觉自己爱上了什么课，也没有觉得自己在专业技能方面有什么长进。但我依然要感谢这段每天沉浸在日常琐碎和没有专业理想的一段时光，它让我在一片陌生的土地上落了根，安定下来，看清出周围的环境，然后开始仰望星空。 一些最基本的、最琐碎的问题不是不值得解决，而是如果它们留待解决，就会底盘不稳，最终地崩山摧。当我拥有了稳定和谐的人际关系、一个规律的作息习惯和压力不大的一份课表时，我开始思考更多的一些东西，这些思考一部分是源于自己内心本征的困惑，一部分则受环境影响、被迫思考。
@@ -29,20 +29,20 @@
     
     <item>
       <title>大学与你为何-又记</title>
-      <link>http://example.org/post/diary1/</link>
+      <link>https://hersheyxu.github.io/post/diary1/</link>
       <pubDate>Thu, 23 Apr 2020 01:22:32 +0800</pubDate>
       
-      <guid>http://example.org/post/diary1/</guid>
+      <guid>https://hersheyxu.github.io/post/diary1/</guid>
       <description>2019年9月10日
 的确，开学的第一天在刷不上课与大雨阻隔中度过了，说不上浑浑噩噩，但也并不尽人意。一边刷着课，一边索性把心心念念很久了的年度总结写下来吧。 去年这个时候在忙着开学吧。这个开学不太寻常，是在心院，准备要学梦想中的心理学。当时的课表是什么样的呢？大一大二的专业课一起上，普心、心统、线代、实心+实心实验、社心、CNS，还有一份执念选的博雅班，以及最爱的排球。这些课说出来甚至会吓到自己，佩服自己当时的坚持，也心疼自己并没有站在和别人同一条起跑线上。好几个实验室到处跑，听组会，纠结自己的方向。凌晨赶实验报告，或者在金光311两眼放光地探讨问题，生与死，爱与欲，自己与未来。学术部，排协，排球新生杯，游泳。所有的事情堆成了小山，自己乐在其中，好像还真没抱怨过。 现在可能很难想象一个周三，下午考CNS期中，上完一节排球课后，要继续考普心的期中。当时我终于交上了普心的试卷，只记得颤抖的手拎起游泳包，奔向邱德拔，仿佛要让康河之水洗清我身上凝滞的第8周的沉重。 从未抱怨过，大概就是因为，这是我选的路，我爱的东西，凭什么抱怨。 记得在转院之前，也写过一篇思考的总结。当时真的是在思考很多东西，专业选什么？答案是要自己热爱的，而不是别人觉得好的，也不是社会所期许的；恋爱要什么？我给自己的答案是灵魂契合，既不是为了别人的欣羨，也不是为了证明自己什么；大学要什么？我说，多读书，这是最好的读书的时光，摆脱高中的被动学习，让自己成为知识的核心，精神的境界是永恒的。有时候自己超级看不惯别人抱怨又拖延，苟且着现在，拖延着诗与远方。  当时不曾害怕什么。转专业也是相当镇静——这就是我选的，今年转不过，大不了明年转；转不过也不影响我喜欢它，不影响我学它。 尽管如此，转专业面试那天，我依然被吴老师的一个问题问倒了：如果你发现自己在做的事情其实并不喜欢，而自己有没有机会再转专业了，你会怎么办？ 我当时有一种很奇怪的尴尬感。仿佛自己的热爱被质疑了，而又无法否认其合理性。当时的我从来没想过这个可能性，自己的心态太过自信，又自由。那一天，我被这个问题纠结着，甚至发了朋友圈。这个问题，直到今天我再想来，也觉得是个无解的问题——似乎还没有苗头，告诉我现在的选择会是一条自己并不喜欢的死胡同。 那条朋友圈有一条特别长的回复。它是这样的： ““Again, you can&amp;rsquo;t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.” ―Steve Jobs</description>
     </item>
     
     <item>
       <title>My First Blog</title>
-      <link>http://example.org/post/my-first-blog/</link>
+      <link>https://hersheyxu.github.io/post/my-first-blog/</link>
       <pubDate>Thu, 23 Apr 2020 00:54:02 +0800</pubDate>
       
-      <guid>http://example.org/post/my-first-blog/</guid>
+      <guid>https://hersheyxu.github.io/post/my-first-blog/</guid>
       <description>Hope you love this! </description>
     </item>
     
