@@ -5,8 +5,21 @@
     <description>Recent content on Go for Mind</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 23 Apr 2020 00:54:02 +0800</lastBuildDate>
     
         <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>My First Blog</title>
+        <link>http://example.org/post/my-first-blog/</link>
+        <pubDate>Thu, 23 Apr 2020 00:54:02 +0800</pubDate>
+        
+        <guid>http://example.org/post/my-first-blog/</guid>
+        <description>Go for Mind http://example.org/post/my-first-blog/ -&lt;h4 id=&#34;hope-you-love-this&#34;&gt;Hope you love this!&lt;/h4&gt;
+- http://example.org/post/my-first-blog/ - </description>
+        </item>
     
     
   </channel>
