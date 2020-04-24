@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tops on 赤赤在写</title>
-    <link>https://hersheyxu.github.io/top/</link>
+    <link>https://hersheyxu.gitee.io/top/</link>
     <description>Recent content in Tops on 赤赤在写</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Apr 2020 13:29:56 +0800</lastBuildDate>
     
-	<atom:link href="https://hersheyxu.github.io/top/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hersheyxu.gitee.io/top/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome</title>
-      <link>https://hersheyxu.github.io/top/welcome/</link>
+      <link>https://hersheyxu.gitee.io/top/welcome/</link>
       <pubDate>Fri, 24 Apr 2020 13:29:56 +0800</pubDate>
       
-      <guid>https://hersheyxu.github.io/top/welcome/</guid>
+      <guid>https://hersheyxu.gitee.io/top/welcome/</guid>
       <description>谢谢你来。 搭建这个blog我确实费了不少心血，最终目的或许仅仅是给自己一个可控的、给人以安全感的、同时又希望被看到的空间。它真实，不希望谋取</description>
     </item>
     
